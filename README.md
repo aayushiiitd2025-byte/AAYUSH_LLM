@@ -1,13 +1,13 @@
 ````markdown
-# Beyond the Answer: Probing Numerical Reasoning in Financial LLMs
+Beyond the Answer: Probing Numerical Reasoning in Financial LLMs
 
 > Investigating why small language models fail on financial reasoning tasks — and how symbolic verification can improve reliability.
 
----
 
-## Author
 
-**Aayush Choudhary**  
+Author
+
+Aayush Choudhary 
 B.Tech, IIIT Delhi
 
 🔗 GitHub Repository:  
@@ -15,7 +15,7 @@ https://github.com/aayushiiitd2025-byte/AAYUSH_LLM
 
 ---
 
-# Project Overview
+Project Overview
 
 Financial question answering is not just about producing the correct number.  
 In real-world finance, the reasoning process matters just as much as the final answer.
@@ -33,7 +33,7 @@ The project was completed as part of a research-style assignment focused on fina
 
 ---
 
-# Problem Statement
+Problem Statement
 
 FinQA questions require models to:
 
@@ -55,9 +55,9 @@ Even when the retrieved numbers are correct, applying operations in the wrong or
 
 ---
 
-# Dataset
+Dataset
 
-### FinQA
+FinQA
 
 * 8,281 financial QA pairs
 * Derived from S&P 500 earnings reports
@@ -72,7 +72,7 @@ The dataset is specifically designed to evaluate:
 
 ---
 
-# Model & Environment
+Model & Environment
 
 | Component       | Details                  |
 | --------------- | ------------------------ |
@@ -83,7 +83,7 @@ The dataset is specifically designed to evaluate:
 
 ---
 
-# Repository Structure
+Repository Structure
 
 ```bash
 ├── FinQA_Complete_Submission_Aayush.ipynb
@@ -95,7 +95,7 @@ The dataset is specifically designed to evaluate:
 
 ---
 
-# Layer 1 — Dataset Analysis
+ Layer 1 — Dataset Analysis
 
 The first part of the project focused on understanding the structure of FinQA before any modelling.
 
