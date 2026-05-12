@@ -35,7 +35,7 @@ The goal was to improve reasoning reliability without using larger models or fin
 Repository Structure
 
 FinQA_Complete_Submission_Aayush.ipynb
-NUMERICAL_REASONING_IN_FINANCIAL_LLMS_Aayush.pdf
+PPT_Aayush.pdf
 AAYUSH_Q_AND_A.pdf
 README.md
 
