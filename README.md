@@ -1,13 +1,14 @@
-````markdown id="smallreadme"
+````markdown id="fixedgithubreadme"
 # Beyond the Answer: Probing Numerical Reasoning in Financial LLMs
 
 This project explores how small language models perform on financial numerical reasoning tasks using the **FinQA** dataset.
 
 The work focuses not only on answer accuracy, but also on:
-- reasoning correctness,
-- retrieval failures,
-- context sensitivity,
-- and symbolic verification for improving reliability.
+
+- reasoning correctness
+- retrieval failures
+- context sensitivity
+- symbolic verification for improving reliability
 
 The project was implemented using **Qwen2.5-0.5B-Instruct** on **Google Colab (T4 GPU)** and evaluated on 100 FinQA test examples.
 
@@ -25,6 +26,7 @@ The project was implemented using **Qwen2.5-0.5B-Instruct** on **Google Colab (T
 ## Proposed Improvement
 
 Implemented:
+
 - Complexity-based routing
 - Symbolic verification layer
 
@@ -34,7 +36,7 @@ The goal was to improve reasoning reliability without fine-tuning or larger mode
 
 ## Repository Structure
 
-```bash id="x6m3vz"
+```bash
 ├── FinQA_Complete_Submission_Aayush.ipynb
 ├── NUMERICAL_REASONING_IN_FINANCIAL_LLMS_Aayush.pdf
 ├── AAYUSH_Q_AND_A.pdf
@@ -47,13 +49,13 @@ The goal was to improve reasoning reliability without fine-tuning or larger mode
 
 Install dependencies:
 
-```bash id="4nyv8o"
+```bash
 pip install transformers accelerate torch pandas matplotlib
 ```
 
 Run the notebook in Google Colab:
 
-```bash id="vdz90q"
+```bash
 FinQA_Complete_Submission_Aayush.ipynb
 ```
 
@@ -61,7 +63,7 @@ FinQA_Complete_Submission_Aayush.ipynb
 
 ## GitHub Repository
 
-https://github.com/aayushiiitd2025-byte/AAYUSH_LLM
+🔗 [https://github.com/aayushiiitd2025-byte/AAYUSH_LLM](https://github.com/aayushiiitd2025-byte/AAYUSH_LLM)
 
 ---
 
